@@ -1,4 +1,4 @@
-<script src="//cdn.bootcss.com/jquery/2.1.0/jquery.min.js"></script>
+<script src="//lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//static.geetest.com/static/tools/gt.js"></script>
 <div id="{{ $captchaid }}"></div>
 <p id="wait-{{ $captchaid }}" class="show">正在加载验证码...</p>
